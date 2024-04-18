@@ -18,6 +18,8 @@ by 2030 to prevent permanent climate disaster, and carbon incentive policies, su
 program, will be key to such efforts.
 ________________
 MP-01 TOTAL ISUANCE: 93139 CoUs
+
+ISSUANCE DATE:  08/06/2022
 ___________
 MP-01 UCR CoU Crediting Period : 21/06/2015-31/12/2021
 ____________________
