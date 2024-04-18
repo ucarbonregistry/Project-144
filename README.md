@@ -17,7 +17,7 @@ international programs. It's now widely accepted that the world needs to ramp up
 by 2030 to prevent permanent climate disaster, and carbon incentive policies, such as the UCR CoU
 program, will be key to such efforts.
 ________________
-MP-01 TOTAL ISUANCE: 93139 CoUs
+MP-01 UCR TOTAL ISSUANCE: 93139 CoUs
 
 ISSUANCE DATE:  08/06/2022
 ___________
